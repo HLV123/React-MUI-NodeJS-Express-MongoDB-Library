@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Văn học",
+    "description": "Tiểu thuyết, truyện ngắn, thơ ca và các tác phẩm văn học trong và ngoài nước",
+    "icon": "📚",
+    "color": "#e91e63",
+    "order": 1
+  },
+  {
+    "name": "Khoa học",
+    "description": "Sách về khoa học tự nhiên, vật lý, hóa học, sinh học và các lĩnh vực khoa học khác",
+    "icon": "🔬",
+    "color": "#2196f3",
+    "order": 2
+  },
+  {
+    "name": "Công nghệ",
+    "description": "Lập trình, công nghệ thông tin, trí tuệ nhân tạo và các xu hướng công nghệ mới",
+    "icon": "💻",
+    "color": "#4caf50",
+    "order": 3
+  },
+  {
+    "name": "Kinh tế",
+    "description": "Kinh doanh, tài chính, đầu tư, quản trị và phát triển doanh nghiệp",
+    "icon": "📈",
+    "color": "#ff9800",
+    "order": 4
+  },
+  {
+    "name": "Lịch sử",
+    "description": "Lịch sử Việt Nam, lịch sử thế giới, các sự kiện và nhân vật lịch sử",
+    "icon": "🏛️",
+    "color": "#9c27b0",
+    "order": 5
+  },
+  {
+    "name": "Tâm lý học",
+    "description": "Tâm lý con người, phát triển bản thân, kỹ năng sống và giao tiếp",
+    "icon": "🧠",
+    "color": "#00bcd4",
+    "order": 6
+  },
+  {
+    "name": "Thiếu nhi",
+    "description": "Truyện tranh, sách giáo dục và giải trí dành cho trẻ em",
+    "icon": "🎨",
+    "color": "#ff5722",
+    "order": 7
+  },
+  {
+    "name": "Ngoại ngữ",
+    "description": "Học tiếng Anh, tiếng Nhật, tiếng Hàn và các ngôn ngữ khác",
+    "icon": "🌍",
+    "color": "#607d8b",
+    "order": 8
+  }
+]
